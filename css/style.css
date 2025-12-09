@@ -244,7 +244,7 @@ body.dark .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
 
 /*** Transition Block ***/
 
-/* #transitionblock {
+#transitionblock {
     position: fixed;
     transform: translateX(-100%);
     height: 100vh;
@@ -269,11 +269,11 @@ body.dark .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
     100% {
         transform: translateX(100%);
     }
-} */
+}
 
 /*** Loader ***/
 
-/* #loader-wrapper .loader-section {
+#loader-wrapper .loader-section {
     position: fixed;
     top: 0;
     width: 51%;
@@ -318,7 +318,7 @@ body.dark .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
 
 .loaded #loader-wrapper {
     visibility: hidden;
-} */
+}
 
 /*** Navigation ***/
 
