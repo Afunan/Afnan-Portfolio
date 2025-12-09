@@ -273,7 +273,7 @@ body.dark .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
 
 /*** Loader ***/
 
-#loader-wrapper .loader-section {
+/* #loader-wrapper .loader-section {
     position: fixed;
     top: 0;
     width: 51%;
@@ -318,7 +318,7 @@ body.dark .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
 
 .loaded #loader-wrapper {
     visibility: hidden;
-}
+} */
 
 /*** Navigation ***/
 
